@@ -1,4 +1,4 @@
-# Dessert Feedback Form
+# Dessert
 
 ## Deskripsi
 Proyek ini adalah website tentang dessert. Website ini memiliki 3 halaman utama yaitu **Home**, **Content**, dan **Feedback**.
