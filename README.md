@@ -1,7 +1,7 @@
 # Dessert Feedback Form
 
 ## Deskripsi
-Proyek ini adalah website tentang dessert. Aplikasi ini memiliki 3 halaman utama yaitu **Home**, **Content**, dan **Feedback**.
+Proyek ini adalah website tentang dessert. Website ini memiliki 3 halaman utama yaitu **Home**, **Content**, dan **Feedback**.
 
 ## Fitur
 - **Home**: Landing page Dessert
